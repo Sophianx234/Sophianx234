@@ -1,13 +1,12 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" >
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"  >
 
 <h1 align="center">Hi 👋, I'm Damian X</h1>
 <h3 align="center">I'm Damian a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="NUX_Octodex">
+<img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="500" align="right">
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophianx234" alt="sophianx234" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/damianx4332" target="blank"><img src="https://img.shields.io/twitter/follow/damianx4332?logo=twitter&style=for-the-badge" alt="damianx4332" /></a> </p>
 
