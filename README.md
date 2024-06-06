@@ -62,11 +62,13 @@
 
 <hr/>
 <p>🔥My Stats</p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophianx234&show_icons=true&locale=en&layout=compact" alt="sophianx234" /></p>
+<div style="display: flex; align-items: center;gap: 1.2rem;">
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophianx234&show_icons=true&locale=en&layout=compact" alt="sophianx234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophianx234&show_icons=true&locale=en" alt="sophianx234" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sophianx234&" alt="sophianx234"  /></p>
 
+</div>
 
