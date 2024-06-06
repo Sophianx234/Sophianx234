@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=1723075200&v=beta&t=vPt7CPmcEAq7Sox2j09jJjqlykFiRn1dJkgmETet4eU" width="500" alt="NUX_Octodex">
+<img src="https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=1723075200&v=beta&t=vPt7CPmcEAq7Sox2j09jJjqlykFiRn1dJkgmETet4eU" width="100%" alt="NUX_Octodex">
 <h1 align="center">Hi 👋, I'm Damian X</h1>
 <h3 align="center">I'm Damian a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
