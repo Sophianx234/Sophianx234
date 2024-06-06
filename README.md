@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damian X</h1>
 <h3 align="center">I'm Damian a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="">
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" width=""400 alt="">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophianx234" alt="sophianx234" /></a> </p>
