@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Damian X</h1>
 <h3 align="center">I'm Damian a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophianx234" alt="sophianx234" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/damianx4332" target="blank"><img src="https://img.shields.io/twitter/follow/damianx4332?logo=twitter&style=for-the-badge" alt="damianx4332" /></a> </p>
 
-- 🔭 I’m currently working usePopCorn web application **UsePopCorn**
+- 🔭 I’m currently working on web application **UsePopCorn**
 
 - 🌱 I’m currently learning **React**
 
