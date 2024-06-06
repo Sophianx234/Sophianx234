@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=1723075200&v=beta&t=vPt7CPmcEAq7Sox2j09jJjqlykFiRn1dJkgmETet4eU" width="100%" height="30%" alt="NUX_Octodex">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Damian X</h1>
 <h3 align="center">I'm Damian a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
