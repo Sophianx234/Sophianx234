@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://damianx.io](https://damianx.io)
+- 👨‍💻 All of my projects are available at [https://damiandev](https://damiandev.netlify.app)
 
 - 💬 Ask me about **react, javascript , html and css**
 
