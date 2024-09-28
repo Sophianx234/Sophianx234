@@ -68,7 +68,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophianx234&show_icons=true&locale=en" alt="sophianx234" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sophianx234&" alt="sophianx234"  /></p>
+
 
 
 <br />
