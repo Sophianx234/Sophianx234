@@ -64,7 +64,7 @@
 <p>🔥My Stats</p>
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophianx234&show_icons=true&locale=en&layout=compact" alt="sophianx234" /></p>
+  <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophianx234&show_icons=true&locale=en" alt="sophianx234" /></p>
 
