@@ -11,7 +11,7 @@
   <h3 align="center"  >
 <p style="line-height: 5;">
     👋 Hi! I’m Sophian Abdul Rahman, a passionate Full-Stack Developer with a knack for creating seamless and engaging web applications. With a strong foundation in both frontend and backend technologies, I thrive on turning complex problems into intuitive solutions.
-    I believe in the power of design and functionality working hand in hand, and I’m always eager to learn and experiment with new technologies. When I’m not coding, you can find me rock climbing, experimenting in the kitchen, or diving into my favorite anime series.
+    I believe in the power of design and functionality working hand in hand, and I’m always eager to learn and experiment with new technologies. When I’m not coding, you can find me playing video games, watching anime or exploring the latest tech trends.
 
 Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 </p>
