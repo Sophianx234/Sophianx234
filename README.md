@@ -1,10 +1,31 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
 
-<h1 align="center">Hi 👋, I'm Damian X</h1>
+<h1 align="center">🌟 Sophian Abdul Rahman 🌟</h1>
+
+  <div align="center">
+    
+  **`Full-Stack Developer | Product Designer | Problem Solver | `**
+  </div>
+  
+
+  
 <h3 align="center" > a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
 <br />
-<img align='center' src='https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,redux,nodejs,npm,bash,express,git,postman,supabase'/>
+<p align='center'>
+  
+<img  src='https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,redux,nodejs,npm,bash,express,git,postman,supabase'/>
+</p>
+
 <hr />
+  <h1>Hobbies</h1>
+
+<p>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</p>
+
 <br />
 
 
@@ -63,10 +84,7 @@
 <p>🔥My Stats</p>
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophianx234&show_icons=true&locale=en&layout=compact" alt="sophianx234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophianx234&show_icons=true&locale=en" alt="sophianx234" /></p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sophianx234&show_icons=true&theme=transparent"/>
 
 
 <br />
