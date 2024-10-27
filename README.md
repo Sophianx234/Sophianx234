@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Damian X</h1>
 <h3 align="center" > a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
 <br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <hr />
 <br />
 
