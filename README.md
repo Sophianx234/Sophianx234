@@ -41,8 +41,8 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 
 <br />
 <h1>🛠 Tech Stack</h1>
-<p>
-  <img src='https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,apollo,apple,flutter&perline=6' />
+<p >
+  <img src='https://skillicons.dev/icons?i=aws,gcp,azure,react,babel,express,supabase,git,github,heroku,mongodb,netlify,nodejs,postman,redux,ts,vite,vscode,&perline=10' />
 </p>
 
 
