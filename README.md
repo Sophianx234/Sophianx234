@@ -40,7 +40,10 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 </p>
 
 <br />
-
+<h1>🛠 Tech Stack</h1>
+<p>
+  <img src='https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,apollo,apple,flutter&perline=6' />
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/damianx4332" target="blank"><img src="https://img.shields.io/twitter/follow/damianx4332?logo=twitter&style=for-the-badge" alt="damianx4332" /></a> </p>
