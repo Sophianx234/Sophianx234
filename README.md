@@ -4,12 +4,22 @@
 
   <div align="center">
     
-  **`Full-Stack Developer | Product Designer | Problem Solver | `**
+  **`Full-Stack Developer | Product Designer | Problem Solver | Creative Thinker | Tech Enthusiast  `**
   </div>
-  
 
   
-<h3 align="center" > a passionate Frontend Developer from Ghana 🇬🇭 with a strong background in HTML, CSS, JavaScript, and React. I enjoy creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h3>
+  <h3 align="center"  >
+<p style="line-height: 5;">
+    👋 Hi! I’m Sophian Abdul Rahman, a passionate Full-Stack Developer with a knack for creating seamless and engaging web applications. With a strong foundation in both frontend and backend technologies, I thrive on turning complex problems into intuitive solutions.
+    I believe in the power of design and functionality working hand in hand, and I’m always eager to learn and experiment with new technologies. When I’m not coding, you can find me rock climbing, experimenting in the kitchen, or diving into my favorite anime series.
+
+Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
+</p>
+
+</h3>
+
+
+
 <br />
 <p align='center'>
   
@@ -17,13 +27,16 @@
 </p>
 
 <hr />
-  <h1>Hobbies</h1>
+  <h1>Socials</h1>
 
-<p>
+<p >
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </p>
 
 <br />
