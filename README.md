@@ -89,8 +89,8 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 </p>
 
 
-<hr/>
-<p>📊 Stats</p>
+
+<h1>📊 Stats</h1>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=sophianx234&theme=blue-green"/>
