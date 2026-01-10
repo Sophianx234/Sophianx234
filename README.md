@@ -52,12 +52,15 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **RoadSafe (Final Year Project)** | A road safety analytical tool for Ghana using historical accident data to map hotspot zones. Features an integrated **AI chatbot** trained on data to answer safety queries. | `Python` `React` `AI/ML` `GIS` |
-| **Republic Bank Food App** | *[In Progress]* An internal application designed to streamline food ordering for bank staff during national service. | `Next.js` `React` `Tailwind` |
-| :--- | :--- | :--- |
-| **AFCITC** | A responsive charity web application for the African Centre for Islam and Culture to showcase initiatives and process secure donations. | `React` `Donation API` `Mobile-First` |
+
 | **Wunkathomes** | A real estate platform for browsing and renting properties. Features secure **Paystack** payments, property filtering, and an admin dashboard. | `Next.js` `Paystack` `Tailwind` |
 | **Dasaug** | A mobile-only platform for the Dagbon Students Association featuring anonymous feedback, business profiles, and a member dashboard. | `MERN Stack` `Node.js` `MongoDB` |
+| **Republic Bank Food App** | *[In Progress]* An internal application designed to streamline food ordering for bank staff. | `Next.js` `React` `Tailwind` |
+| **AFCITC** | A responsive charity web application for the African Centre for Islam and Culture to showcase initiatives and process secure donations. | `React` `Donation API` `Mobile-First` |
+**Rammys-Cosmetics** | A modern cosmetics e-commerce web application for showcasing beauty products, managing product catalogs, and enabling seamless customer interaction. Designed with a clean UI and scalable architecture. | `Python` `React` `AI/ML` `PostgreSQL`
+| **RoadSafe (Final Year Project)** | A road safety analytical tool for Ghana using historical accident data to map hotspot zones. Features an integrated **AI chatbot** trained on data to answer safety queries. | `Python` `React` `AI/ML` `GIS` |
+
+
 
  *Check out my [Portfolio](https://damiandev.netlify.app) for more.*
 - Ask me about **React, Nextjs,Typescript,Postgresql, Node and Express**
