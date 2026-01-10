@@ -52,7 +52,6 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-
 | **Wunkathomes** | A real estate platform for browsing and renting properties. Features secure **Paystack** payments, property filtering, and an admin dashboard. | `Next.js` `Paystack` `Tailwind` |
 | **Dasaug** | A mobile-only platform for the Dagbon Students Association featuring anonymous feedback, business profiles, and a member dashboard. | `MERN Stack` `Node.js` `MongoDB` |
 | **Republic Bank Food App** | *[In Progress]* An internal application designed to streamline food ordering for bank staff. | `Next.js` `React` `Tailwind` |
