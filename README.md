@@ -54,11 +54,12 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 | :--- | :--- | :--- |
 | **RoadSafe (Final Year Project)** | A road safety analytical tool for Ghana using historical accident data to map hotspot zones. Features an integrated **AI chatbot** trained on data to answer safety queries. | `Python` `React` `AI/ML` `GIS` |
 | **Republic Bank Food App** | *[In Progress]* An internal application designed to streamline food ordering for bank staff during national service. | `Next.js` `React` `Tailwind` |
-| **UsePopCorn** | A platform for discovering movies, rating them, and managing your "watched" list. | `React` `Hooks` `API Integration` |
-| **WorldWise** | A global map application for tracking travel footprints and keeping notes on cities visited. | `React Router` `Context API` |
-| **Fast-React-Pizza** | A pizza ordering application featuring GPS location tracking and cart management. | `Redux` `Geolocation` |
+| :--- | :--- | :--- |
+| **[AFCITC](https://acfitc.vercel.app/)** | A responsive charity web application for the African Centre for Islam and Culture to showcase initiatives and process secure donations. | `React` `Donation API` `Mobile-First` |
+| **[Wunkathomes](https://wunkat-estate.vercel.app/)** | A real estate platform for browsing and renting properties. Features secure **Paystack** payments, property filtering, and an admin dashboard. | `Next.js` `Paystack` `Tailwind` |
+| **[Dasaug](https://dasaug.netlify.app)** | A mobile-only platform for the Dagbon Students Association featuring anonymous feedback, business profiles, and a member dashboard. | `MERN Stack` `Node.js` `MongoDB` |
 
-> *Check out my [Portfolio](https://damiandev.netlify.app) for more.*
+ *Check out my [Portfolio](https://damiandev.netlify.app) for more.*
 - Ask me about **React, Javascript, HTML, CSS, Node and Express**
 
 - How to reach me **dx4336969@gmail.com**
