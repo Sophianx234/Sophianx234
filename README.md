@@ -60,7 +60,7 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 | **Dasaug** | A mobile-only platform for the Dagbon Students Association featuring anonymous feedback, business profiles, and a member dashboard. | `MERN Stack` `Node.js` `MongoDB` |
 
  *Check out my [Portfolio](https://damiandev.netlify.app) for more.*
-- Ask me about **React, Javascript, HTML, CSS, Node and Express**
+- Ask me about **React, Nextjs,Typescript,Postgresql, Node and Express**
 
 - How to reach me **dx4336969@gmail.com**
 
@@ -91,10 +91,6 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 
 
 
-<h1>📊 Stats</h1>
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sophianx234&theme=blue-green"/>
 
 
 <h1> </h1>
