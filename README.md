@@ -48,16 +48,17 @@ Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
 
 <p align="left"> <a href="https://twitter.com/damianx4332" target="blank"><img src="https://img.shields.io/twitter/follow/damianx4332?logo=twitter&style=for-the-badge" alt="damianx4332" /></a> </p>
 
-<h1>📂 Projects</h1>
+### 📂 Featured Projects
 
-- [**UsePopCorn**](https://usepopcornx.netlify.app/): A platform for discovering and rating movies 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **RoadSafe (Final Year Project)** | A road safety analytical tool for Ghana using historical accident data to map hotspot zones. Features an integrated **AI chatbot** trained on data to answer safety queries. | `Python` `React` `AI/ML` `GIS` |
+| **Republic Bank Food App** | *[In Progress]* An internal application designed to streamline food ordering for bank staff during national service. | `Next.js` `React` `Tailwind` |
+| **UsePopCorn** | A platform for discovering movies, rating them, and managing your "watched" list. | `React` `Hooks` `API Integration` |
+| **WorldWise** | A global map application for tracking travel footprints and keeping notes on cities visited. | `React Router` `Context API` |
+| **Fast-React-Pizza** | A pizza ordering application featuring GPS location tracking and cart management. | `Redux` `Geolocation` |
 
-- [**World Wise**](): A Global map app for travel notes and exploration.
-
-- [**Fast-React-Pizza**](): Pizza ordering app with GPS tracking.
-  
-- Find all my projects at [https://damiandev](https://damiandev.netlify.app)
-
+> *Check out my [Portfolio](https://damiandev.netlify.app) for more.*
 - Ask me about **React, Javascript, HTML, CSS, Node and Express**
 
 - How to reach me **dx4336969@gmail.com**
