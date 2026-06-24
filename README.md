@@ -6,7 +6,7 @@
 
 I'm a Full-Stack Developer based in Accra, Ghana. I build web products from concept to deployment. My work spans real estate platforms, fintech integrations, social apps, and startup MVPs. I care deeply about clean architecture, solving real user problems, and shipping products that actually work.
 
-Currently, I'm building **WunkatHomes**—a full-stack real estate platform featuring tenant subscription management, Paystack payments, Tuya smart lock integration, and role-based portals. I'm also co-founding and leading the team at **AncoreXHub**, an early-stage tech startup.
+Currently, I'm building **WunkatHomes**, a full-stack real estate platform featuring tenant subscription management, Paystack payments, Tuya smart lock integration, and role-based portals. I'm also co-founding and leading the team at **AncoreXHub**, an early-stage tech startup.
 
 ---
 
@@ -34,9 +34,9 @@ Currently, I'm building **WunkatHomes**—a full-stack real estate platform feat
 | Project | What it does | Tech Stack |
 | :--- | :--- | :--- |
 | **🏠 WunkatHomes v2** | Full-stack real estate platform featuring tenant subscriptions, Paystack payments, Tuya smart lock access control, and four role-based portals (public, tenant, manager, admin). | `Next.js` `Mongoose` `Paystack` `Redis` `BullMQ` |
-| **🎓 Dasaug** | Social platform for the Dagbon Students Association. Includes anonymous feedback, business profiles, and a secure member dashboard. | `MERN` `Node.js` `MongoDB` |
-| **📱 BingeBox** | Mobile application designed for discovering and tracking movies and series. | `React Native` |
-| **🌍 AFCITC** | Responsive charity web app for the African Centre for Islam and Culture to showcase initiatives and process donations. | `React` `Mobile-First` |
+| **🎓 Dasaug** | Social platform for the Dagbon Students Association. Includes anonymous texting, business place, and  Membership dues subscription. | `MERN` `Node.js` `MongoDB` |
+| **📱 BingeBox** | Mobile application designed for discovering and tracking movies and series. | `React Native` `Postgresql` |
+| **🌍 AFCITC** | Responsive charity web app for the African Centre for Islam and Culture to showcase initiatives and process donations. | `React`  |
 | **💄 Rammys Cosmetics** | Modern e-commerce platform for a cosmetics client featuring a dynamic product catalog, clean UI, and scalable architecture. | `React` `PostgreSQL` `Python` |
 | **🏗️ BKC Engineering** | Professional, responsive, and client-ready portfolio website for an engineering firm. | `React` `Tailwind` |
 
