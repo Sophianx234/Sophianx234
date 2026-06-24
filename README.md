@@ -40,13 +40,7 @@ Currently, I'm building **WunkatHomes**—a full-stack real estate platform feat
 | **💄 Rammys Cosmetics** | Modern e-commerce platform for a cosmetics client featuring a dynamic product catalog, clean UI, and scalable architecture. | `React` `PostgreSQL` `Python` |
 | **🏗️ BKC Engineering** | Professional, responsive, and client-ready portfolio website for an engineering firm. | `React` `Tailwind` |
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophianx243&theme=dark&background=1D1D1D&ring=ffffff&fire=f97316&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=f97316&sideNums=ffffff&dates=6b7280&stroke=ffffff&border=1D1D1D" alt="GitHub Streak" />
-</div>
 
 ---
 
