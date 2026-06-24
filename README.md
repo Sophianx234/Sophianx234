@@ -1,101 +1,85 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
-
-<h1 align="center">🌟 Sophian Abdul Rahman 🌟</h1>
-
-  <div align="center">
-    
-  **`Full-Stack Developer | Product Designer | Problem Solver | Creative Thinker | Tech Enthusiast  `**
-  </div>
-
-  
-  <h3 align="center"  >
-<p style="line-height: 5;">
-    👋 Hi! I’m Sophian Abdul Rahman, a passionate Full-Stack Developer with a knack for creating seamless and engaging web applications. With a strong foundation in both frontend and backend technologies, I thrive on turning complex problems into intuitive solutions.
-    I believe in the power of design and functionality working hand in hand, and I’m always eager to learn and experiment with new technologies. When I’m not coding, you can find me playing video games, watching anime or exploring the latest tech trends.
-
-Let’s connect 🤝 and collaborate 💡 on innovative projects 🚀!
-</p>
-
-</h3>
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sophian%20Abdul%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Ghana&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</div>
 
 <br />
-<p align='center'>
-  
-<img  src='https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,redux,nodejs,npm,bash,express,git,postman,supabase'/>
-</p>
 
-<hr />
-  <h1>Socials</h1>
+## Hey, I'm Sophian 👋
 
-<p >
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</p>
+I'm a Full-Stack Developer based in **Accra, Ghana** — I build web products from concept to deployment. My work spans real estate platforms, fintech integrations, social apps, and startup MVPs. I care about clean architecture, real user problems, and shipping things that actually work.
 
-<br />
-<h1>🛠 Languages and Tools</h1>
-<p >
-  <img src='https://skillicons.dev/icons?i=aws,gcp,azure,react,babel,express,supabase,git,github,heroku,mongodb,netlify,nodejs,postman,redux,ts,vite,vscode,&perline=10' />
-</p>
+Currently building **[WunkatHomes](https://github.com/Sophianx234/wunkat-homes-v2)** — a full-stack real estate platform with tenant subscription management, Paystack payments, Tuya smart lock integration, and role-based portals. Also co-founding **[AncorexHub](https://github.com/Sophianx234)**, an early-stage tech startup.
 
+---
 
-<p align="left"> <a href="https://twitter.com/damianx4332" target="blank"><img src="https://img.shields.io/twitter/follow/damianx4332?logo=twitter&style=for-the-badge" alt="damianx4332" /></a> </p>
+## 🛠 Tech Stack
 
-### 📂 Featured Projects
+**Frontend**
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-| Project | Description | Tech Stack |
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **Wunkathomes** | A real estate platform for browsing and renting properties. Features secure **Paystack** payments, property filtering, and an admin dashboard. | `Next.js` `Paystack` `Tailwind` |
-| **Dasaug** | A mobile-only platform for the Dagbon Students Association featuring anonymous feedback, business profiles, and a member dashboard. | `MERN Stack` `Node.js` `MongoDB` |
-| **RepublicLunch** | *[In Progress]* An internal application designed to streamline food ordering for Republic bank staff. | `Next.js` `React` `Tailwind` |
-| **AFCITC** | A responsive charity web application for the African Centre for Islam and Culture to showcase initiatives and process secure donations. | `React` `Donation API` `Mobile-First` |
-**Rammys-Cosmetics** | A modern cosmetics e-commerce web application for showcasing beauty products, managing product catalogs, and enabling seamless customer interaction. Designed with a clean UI and scalable architecture. | `Python` `React` `AI/ML` `PostgreSQL`
-| **RoadSafe (Final Year Project)** | A road safety analytical tool for Ghana using historical accident data to map hotspot zones. Features an integrated **AI chatbot** trained on data to answer safety queries. | `Python` `React` `AI/ML` `GIS` |
+| 🏠 **[WunkatHomes v2](https://github.com/Sophianx234/wunkat-homes-v2)** | Full-stack real estate platform. Tenant subscriptions, Paystack payments, Tuya smart lock access control, and four role-based portals (public, tenant, manager, admin). | `Next.js` `Mongoose` `Paystack` `Tuya` `Redis` `BullMQ` |
+| 🎓 **[Dasaug](https://github.com/Sophianx234)** | Social platform for the Dagbon Students Association. Anonymous feedback, business profiles, and a member dashboard. | `MERN` `Node.js` `MongoDB` |
+| 📱 **[BingeBox](https://github.com/Sophianx234)** | Mobile app for discovering and tracking movies and series. | `React Native` |
+| 🌍 **[AFCITC](https://github.com/Sophianx234)** | Charity web app for the African Centre for Islam and Culture — showcases initiatives and processes donations. | `React` `Mobile-First` |
+| 💄 **[Rammys Cosmetics](https://github.com/Sophianx234)** | E-commerce platform for a cosmetics client — product catalog, clean UI, scalable architecture. | `React` `PostgreSQL` `Python` |
+| 🏗️ **[BKC Engineering](https://github.com/Sophianx234)** | Portfolio website for an engineering firm — professional, responsive, and client-ready. | `React` `Tailwind` |
 
+---
 
+## 📊 GitHub Stats
 
- *Check out my [Portfolio](https://damiandev.netlify.app) for more.*
-- Ask me about **React, Nextjs,Typescript,Postgresql, Node and Express**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophianx234&theme=dark&background=0d1117&ring=2c5364&fire=f97316&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=f97316&sideNums=ffffff&dates=6b7280&stroke=2c5364&border=1e2937" alt="GitHub Streak" />
+</div>
 
-- How to reach me **dx4336969@gmail.com**
+---
 
-<h1>🎮 Hobbies</h1>
-  <div>
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
-    <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
-    <img src="	https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
- <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </div>
+## 🤝 Let's Connect
 
-<h1 align="left">🌐 Connect with Me</h1>
-<p>I love engaging with the community and sharing ideas! If you’re interested in collaborating, discussing projects, or just connecting over tech, don’t hesitate to reach out. Here’s how you can get in touch</p>
-<p >
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+I'm open to collaborations, freelance projects, and full-time opportunities.
+
+<p>
+  <a href="https://www.linkedin.com/in/sophian-abdul-rahman-909125230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://damiandev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
+  <a href="mailto:dx4336969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sophianx234">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-
-
-
-
-<h1> </h1>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</div>
